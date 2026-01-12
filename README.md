@@ -15,6 +15,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
   - Applications in NLP, Vision, and beyond
   - Q&A section
 - **Description**: An exhaustive guide to the Transformer architecture that powers modern AI systems like GPT and BERT. Perfect for beginners and experts alike.
+- **Medium Article**: [Read on Medium](https://medium.com/@sahilaggarwal15/understanding-the-transformer-architecture-the-foundation-of-modern-ai-5331018e002d)
 
 *(More blogs coming soon!)*
 
