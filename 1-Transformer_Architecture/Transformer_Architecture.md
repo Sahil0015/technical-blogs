@@ -2,7 +2,7 @@
 
 ---
 
-![Transformer Architecture Overview](1_LP8FMjzhnp0kB53KyzuqPg.png)
+![Transformer Architecture Overview](Transformer_Diagram.png)
 
 ---
 
@@ -136,6 +136,9 @@ Self-attention enables:
 #### Multi-Head Attention
 
 ![Self & Multi-Head Attention](Self-Attention-vs-Multi-headed-Attention.png)
+
+![Multi-Head Attention](multi-head.png)
+
 Instead of one attention operation, Transformers use multiple attention heads.
 
 Each head:
