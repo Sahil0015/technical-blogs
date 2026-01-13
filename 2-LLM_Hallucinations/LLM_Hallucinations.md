@@ -45,7 +45,7 @@ Hallucination is not a bug — it is a natural outcome of how LLMs are trained a
 LLMs are optimized with Maximum Likelihood Estimation:
 
 $$
-\max_\theta \sum_t \log p_\theta(x_t \mid x_{<t})
+\max_\theta \sum_t \log p_\theta(x_t \mid x_{1:t-1})
 $$
 
 The reward is for predicting the next token, not for being factually accurate. A model learns *how* Wikipedia sounds or how StackOverflow answers flow, but not whether the statements are true in the real world. When uncertain, it still outputs highly probable language.
