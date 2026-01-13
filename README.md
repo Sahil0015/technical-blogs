@@ -15,7 +15,18 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
   - Applications in NLP, Vision, and beyond
   - Q&A section
 - **Description**: An exhaustive guide to the Transformer architecture that powers modern AI systems like GPT and BERT. Perfect for beginners and experts alike.
-- **Medium Article**: [Read on Medium](https://medium.com/@sahilaggarwal15/understanding-the-transformer-architecture-the-foundation-of-modern-ai-5331018e002d)
+ - **Medium Article**: Published on Towards AI (Medium): [Read on Medium](https://medium.com/@sahilaggarwal15/understanding-the-transformer-architecture-the-foundation-of-modern-ai-5331018e002d)
+
+### 2. Hallucinations in Large Language Models: Causes and Mitigation
+- **File**: [2-LLM_Hallucinations/LLM_Hallucinations.md](2-LLM_Hallucinations/LLM_Hallucinations.md)
+- **Topics Covered**:
+  - Definitions: intrinsic vs extrinsic hallucinations
+  - Root causes: training objectives, decoding, exposure bias, alignment, attention failures
+  - Detection & evaluation: human eval, FactScore/QA checks, NLI, LLM-as-judge
+  - Engineering detection: self-consistency, calibration, retrieval verification, citation grounding
+  - Mitigation strategies: RAG, constrained decoding, post-generation verification, fine-tuning, tool use, prompting
+- **Description**: A technical deep dive explaining why LLMs hallucinate, how to measure and detect hallucinations, and practical mitigation patterns for production systems.
+ - **Medium Article**: Published on Medium: [Read on Medium]()
 
 *(More blogs coming soon!)*
 
