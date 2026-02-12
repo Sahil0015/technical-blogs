@@ -1,13 +1,13 @@
 ### Probability & Statistics
 Random Variables, Distributions, Mean/Variance, Regression
 
-![Probability & Statistics](p&s.png)
+<img src="p&s.png" alt="Probability & Statistics" width="500" />
 
 ---
 
 ## 1. Real Business Story: Swiggy/Zomato-Style App
 
-![Likelihood](chance_graph.png)
+<img src="chance_graph.png" alt="Likelihood" width="500" />
 
 Imagine you are a **Data Scientist** at a food delivery company.
 
@@ -28,9 +28,9 @@ The company wants clear answers to questions like:
 | “Predict delivery time for a new order” | Build a **regression model** |
 | “Assign riders efficiently” | Use **ML + optimization** |
 
-![Probability](formulas.jpg)
+<img src="formulas.jpg" alt="Probability" width="500" />
 
-![Statistics](statistics.jpg)
+<img src="statistics.jpg" alt="Statistics" width="500" />
 
 So **probability & statistics** are the **language of randomness**, and **ML** learns patterns from that randomness to make better decisions.
 
@@ -56,7 +56,7 @@ You **don’t know** the value before the order happens → so \(X\) is **random
 
 ### 2.2 Two Types of Random Variables
 
-![Random Variable](rv.png)
+<img src="rv.png" alt="Random Variable" width="500" />
 
 #### (A) Discrete Random Variable
 
@@ -84,7 +84,7 @@ We don’t know the exact value of \(X\), but we can talk about **probabilities*
 
 - “What is the chance this order takes more than 40 minutes?”
 
-![Graph](discrete_continuous.png)
+<img src="discrete_continuous.png" alt="Discrete vs Continuous" width="550" />
 
 ---
 
@@ -92,7 +92,7 @@ We don’t know the exact value of \(X\), but we can talk about **probabilities*
 
 These describe the **typical value** and **stability** of a random variable.
 
-![Graph](graph.jpg)
+<img src="graph.jpg" alt="Mean and Variance Graph" width="550" />
 
 ### 3.1 Mean – The “Typical” Value
 
@@ -158,7 +158,7 @@ You can think of it as the **shape of randomness**.
 
 ### 4.1 Bernoulli Distribution (Yes/No Events)
 
-![BernoulliDistribution](BernoulliDistribution.png)
+<img src="BernoulliDistribution.png" alt="Bernoulli Distribution" width="500" />
 
 Use when the result is just **Yes/No** or **0/1**.
 
@@ -183,7 +183,7 @@ This is the foundation of **binary classification** problems.
 
 ### 4.2 Binomial Distribution (Count of Yes/No Events)
 
-![BinomialDistribution](binomialDistribution.png)
+<img src="binomialDistribution.png" alt="Binomial Distribution" width="500" />
 
 Use when you **repeat a Bernoulli trial n times** and count successes.
 
@@ -205,7 +205,7 @@ Use-cases:
 
 ### 4.3 Poisson Distribution (Events Per Time)
 
-![PoissonDistribution](poisson-distribution.png)
+<img src="poisson-distribution.png" alt="Poisson Distribution" width="500" />
 
 Use when you model **number of events in a fixed time window**.
 
@@ -224,7 +224,7 @@ Delivery use-case:
 
 ### 4.4 Exponential Distribution (Time Between Events)
 
-![ExponentialDistribution](Exponential_distribution_pdf_-_public_domain.svg.png)
+<img src="Exponential_distribution_pdf_-_public_domain.svg.png" alt="Exponential Distribution" width="500" />
 
 Use when you model **time between arrivals**.
 
@@ -238,7 +238,7 @@ Ops/ML use-cases:
 
 ### 4.5 Normal (Gaussian) Distribution (Bell Curve)
 
-![GaussianDistribution](gaussianDistribution.png)
+<img src="gaussianDistribution.png" alt="Gaussian Distribution" width="500" />
 
 The famous **bell-shaped curve**. It appears in many real-world measurements:
 
@@ -266,7 +266,7 @@ Data science use-cases:
 
 ## 5. Regression – Predicting a Number
 
-![Regression](regression.png)
+<img src="regression.png" alt="Regression" width="550" />
 
 **Regression** means predicting a **continuous value** like time, price, or demand.
 
