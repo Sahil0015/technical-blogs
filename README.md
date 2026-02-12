@@ -2,39 +2,98 @@
 
 Welcome to my collection of technical blogs! This repository serves as a hub for in-depth articles on AI, machine learning, computer science, and related topics. Each blog is written in Markdown for easy reading and includes code snippets, diagrams, and references where applicable.
 
+---
+
 ## 📚 Available Blogs
 
-### 1. Understanding the Transformer Architecture: The Foundation of Modern AI
+---
+
+### 1️⃣ Understanding the Transformer Architecture: The Foundation of Modern AI
 - **File**: [1-Transformer_Architecture/Transformer_Architecture.md](1-Transformer_Architecture/Transformer_Architecture.md)
 - **Topics Covered**:
-  - Prerequisites and Introduction
-  - History of sequence modeling (RNNs, LSTMs, GRUs)
-  - Detailed breakdown of Transformer components (Self-Attention, Multi-Head Attention, Positional Encoding, etc.)
-  - Scaling large models (BERT, GPT, T5)
+  - Prerequisites and introduction to sequence modeling
+  - RNNs, LSTMs, and the evolution toward Transformers
+  - Core Transformer components:
+    - Self-Attention
+    - Multi-Head Attention
+    - Positional Encoding
+  - Scaling models (BERT, GPT, T5)
   - Variants (ALBERT, XLNet, ViT, RoBERTa, DistilBERT)
-  - Applications in NLP, Vision, and beyond
+  - Applications across NLP and Vision
   - Q&A section
-- **Description**: An exhaustive guide to the Transformer architecture that powers modern AI systems like GPT and BERT. Perfect for beginners and experts alike.
- - **Medium Article**: Published on Towards AI (Medium): [Read on Medium](https://medium.com/@sahilaggarwal15/understanding-the-transformer-architecture-the-foundation-of-modern-ai-5331018e002d)
+- **Description**:  
+  An in-depth technical guide explaining the architecture that powers modern AI systems like GPT and BERT — suitable for both beginners and experienced practitioners.
+- **Medium Article**: Published on Towards AI — [Read on Medium](https://pub.towardsai.net/understanding-the-transformer-architecture-the-foundation-of-modern-ai-5331018e002d)
 
-### 2. Hallucinations in Large Language Models: Causes and Mitigation
+---
+
+### 2️⃣ Hallucinations in Large Language Models: Causes and Mitigation
 - **File**: [2-LLM_Hallucinations/LLM_Hallucinations.md](2-LLM_Hallucinations/LLM_Hallucinations.md)
 - **Topics Covered**:
-  - Definitions: intrinsic vs extrinsic hallucinations
-  - Root causes: training objectives, decoding, exposure bias, alignment, attention failures
-  - Detection & evaluation: human eval, FactScore/QA checks, NLI, LLM-as-judge
-  - Engineering detection: self-consistency, calibration, retrieval verification, citation grounding
-  - Mitigation strategies: RAG, constrained decoding, post-generation verification, fine-tuning, tool use, prompting
-- **Description**: A technical deep dive explaining why LLMs hallucinate, how to measure and detect hallucinations, and practical mitigation patterns for production systems.
- - **Medium Article**: Published on Medium: [Read on Medium]()
+  - Intrinsic vs extrinsic hallucinations
+  - Root causes:
+    - Training objectives
+    - Decoding behavior
+    - Exposure bias
+    - Alignment challenges
+  - Detection & evaluation:
+    - Human evaluation
+    - FactScore / QA checks
+    - NLI and LLM-as-judge approaches
+  - Engineering detection:
+    - Self-consistency
+    - Retrieval verification
+    - Citation grounding
+  - Mitigation strategies:
+    - RAG
+    - Constrained decoding
+    - Tool usage
+    - Prompt engineering
+- **Description**:  
+  A technical deep dive into *why* LLMs hallucinate, how to measure them, and real engineering strategies for building more reliable AI systems.
+- **Medium Article**: [Read on Medium](https://medium.com/@sahilaggarwal15/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)
 
-*(More blogs coming soon!)*
+---
+
+### 3️⃣ Probability & Statistics: Basic Ideas Towards Learning Data Science
+- **File**: [3-Probability-&-Statistics/Probability-&-Statistics.md](3-Probability-&-Statistics/Probability-&-Statistics.md)
+- **Topics Covered**:
+  - Probability fundamentals
+  - Descriptive statistics & distributions
+  - Sampling intuition
+  - Basic inferential statistics and hypothesis testing
+  - Practical examples
+- **Description**:  
+  A concise and intuitive introduction to probability and statistics designed for aspiring data scientists.
+- **Medium Article**: [Read on Medium](https://medium.com/data-and-beyond/probability-statistics-basic-idea-towards-learning-data-science-fd7a78ee5213)
+
+---
+
+### 4️⃣ Retrieval-Augmented Generation (RAG) — Explained
+- **File**: [4-RAG_Explained/RAG_Explained.md](4-RAG_Explained/RAG_Explained.md)
+- **Topics Covered**:
+  - RAG fundamentals and motivation
+  - Chunking, embeddings, and vector databases
+  - Retrieval strategies and hybrid search
+  - Prompt grounding and context injection
+  - Evaluation metrics and production patterns
+  - Fine-tuning vs RAG decision frameworks
+  - Future directions in multimodal and agentic RAG
+- **Description**:  
+  A practical engineering guide to building reliable AI systems using Retrieval-Augmented Generation — from core concepts to real-world deployment considerations.
+- **Medium Article**: *Coming Soon*
+
+---
+
+*(More blogs coming soon — including advanced LLM engineering topics and AI system design.)*
+
+---
 
 ## 🚀 How to Read
 
-- **Online**: View the Markdown files directly on GitHub for rendered content.
-- **Locally**: Clone the repo and open the `.md` files in any Markdown viewer or text editor.
-- **PDF/Export**: Use tools like Pandoc to convert to other formats if needed.
+- **Online (Medium)**: Read the published articles via the Medium links listed under each blog above (click the "Read on Medium" links).
+- **Locally (Markdown)**: Open the corresponding `.md` files in this repository (e.g., `1-Transformer_Architecture/Transformer_Architecture.md`) to view the source and additional diagrams or code snippets.
+- **PDF/Export**: Use tools like `pandoc` to convert `.md` files to PDF if you prefer offline reading.
 
 ## 🤝 Contributing
 
@@ -47,7 +106,7 @@ Feel free to fork the repo, make changes, and submit a pull request. Let's build
 
 ## 📄 License
 
-All content is shared under the [MIT License](LICENSE) (add a LICENSE file if not present).
+All content is shared under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
@@ -55,4 +114,4 @@ For questions or suggestions, reach out via [GitHub Issues](https://github.com/S
 
 ---
 
-*Last updated: January 12, 2026*
+*Last updated: February 2026*
