@@ -51,7 +51,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
     - Prompt engineering
 - **Description**:  
   A technical deep dive into *why* LLMs hallucinate, how to measure them, and real engineering strategies for building more reliable AI systems.
-- **Medium Article**: [Read on Medium](https://medium.com/@sahilaggarwal15/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)
+- **Medium Article**: [Read on Medium](https://pub.towardsai.net/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)
 
 ---
 
@@ -81,7 +81,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
   - Future directions in multimodal and agentic RAG
 - **Description**:  
   A practical engineering guide to building reliable AI systems using Retrieval-Augmented Generation — from core concepts to real-world deployment considerations.
-- **Medium Article**: *Coming Soon*
+- **Medium Article**: [Read on Medium](https://medium.com/@sahilaggarwal15/rag-explained-teaching-llms-to-fact-check-themselves-308359f1ce6e)
 
 ---
 
