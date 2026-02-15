@@ -89,6 +89,48 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
 
 ---
 
+### 5️⃣ Agents & Tool Calling
+- **File**: [5-Agents_and_Tool_Calling/Agents_and_Tool_Calling.md](5-Agents_and_Tool_Calling/Agents_and_Tool_Calling.md)
+- **Description**: Placeholder — an in-progress deep dive into agent architectures, tool invocation, safety, and production patterns.
+
+---
+
+### 6️⃣ Prompt Engineering (Production)
+- **File**: [6-Prompt_Engineering_Production/Prompt_Engineering_Production.md](6-Prompt_Engineering_Production/Prompt_Engineering_Production.md)
+- **Description**: Placeholder — production-focused prompt design, testing, and scaling strategies.
+
+---
+
+### 7️⃣ Vector DB & Embeddings Deep Dive
+- **File**: [7-Vector_DB_and_Embeddings_Deep_Dive/Vector_DB_and_Embeddings_Deep_Dive.md](7-Vector_DB_and_Embeddings_Deep_Dive/Vector_DB_and_Embeddings_Deep_Dive.md)
+- **Description**: Placeholder — embedding models, vector DB architectures, and retrieval strategies.
+
+---
+
+### 8️⃣ LLM Evaluation & Benchmarks
+- **File**: [8-LLM_Evaluation_and_Benchmarks/LLM_Evaluation_and_Benchmarks.md](8-LLM_Evaluation_and_Benchmarks/LLM_Evaluation_and_Benchmarks.md)
+- **Description**: Placeholder — metrics, benchmark construction, and evaluation best practices.
+
+---
+
+### 9️⃣ Guardrails & Reliability
+- **File**: [9-Guardrails_and_Reliability/Guardrails_and_Reliability.md](9-Guardrails_and_Reliability/Guardrails_and_Reliability.md)
+- **Description**: Placeholder — defining guardrails, safety testing, and reliability patterns.
+
+---
+
+### 🔟 Fine-Tuning vs RAG vs Agents
+- **File**: [10-Fine-Tuning_vs_RAG_vs_Agents/Fine-Tuning_vs_RAG_vs_Agents.md](10-Fine-Tuning_vs_RAG_vs_Agents/Fine-Tuning_vs_RAG_vs_Agents.md)
+- **Description**: Placeholder — decision framework comparing fine-tuning, RAG, and agentic approaches.
+
+---
+
+### 1️⃣1️⃣ Observability & Monitoring
+- **File**: [11-Observability_and_Monitoring/Observability_and_Monitoring.md](11-Observability_and_Monitoring/Observability_and_Monitoring.md)
+- **Description**: Placeholder — telemetry, tracing, and alerting guidance for LLM systems.
+
+---
+
 ## 🚀 How to Read
 
 - **Online (Medium)**: Read the published articles via the Medium links listed under each blog above (click the "Read on Medium" links).
