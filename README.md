@@ -81,7 +81,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
   - Future directions in multimodal and agentic RAG
 - **Description**:  
   A practical engineering guide to building reliable AI systems using Retrieval-Augmented Generation — from core concepts to real-world deployment considerations.
-- **Medium Article**: [Read on Medium](https://medium.com/@sahilaggarwal15/rag-explained-teaching-llms-to-fact-check-themselves-308359f1ce6e)
+- **Medium Article**: [Read on Medium](https://pub.towardsai.net/rag-explained-teaching-llms-to-fact-check-themselves-308359f1ce6e)
 
 ---
 
