@@ -89,9 +89,20 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
 
 ---
 
-### 5️⃣ Agents & Tool Calling
-- **File**: [5-Agents_and_Tool_Calling/Agents_and_Tool_Calling.md](5-Agents_and_Tool_Calling/Agents_and_Tool_Calling.md)
-- **Description**: Placeholder — an in-progress deep dive into agent architectures, tool invocation, safety, and production patterns.
+### 5️⃣ Agents Aren't Magic: The Real Architecture Behind Tool-Calling AI Systems
+- **File**: [5-Agent_Architecture/Agent_Architecture.md](5-Agent_Architecture/Agent_Architecture.md)
+- **Topics Covered**:
+  - Architectural overview of AI agents (LLM, memory, tools, controller)
+  - The core agent loop: Plan → Act → Observe → Repeat
+  - Tool calling patterns and protocols (function calling, planner–executor, tool router)
+  - Orchestration: single-agent monoliths vs multi-agent teams
+  - Safety, sandboxing, and permissioning
+  - Example architectures with code concepts
+  - Production considerations: latency, cost, versioning, observability
+  - Common design mistakes and how to avoid them
+- **Description**:  
+  A practical systems-engineering guide to building real AI agents — covering tool calling, orchestration, safety layers, and production patterns beyond the hype.
+- **Medium Article**: Published on Towards AI — [Read on Medium](https://pub.towardsai.net/agents-arent-magic-the-real-architecture-behind-tool-calling-ai-systems-a21a91470c8b?source=friends_link&sk=e91c016fc43f280afaa63d340e034451)
 
 ---
 
