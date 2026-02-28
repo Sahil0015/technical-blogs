@@ -6,6 +6,8 @@
 
 ---
 
+> **Published on Towards AI** — [Read on Medium](https://pub.towardsai.net/understanding-the-transformer-architecture-the-foundation-of-modern-ai-5331018e002d)
+
 ## Index
 
 - [Understanding the Transformer Architecture: The Foundation of Modern AI](#understanding-the-transformer-architecture-the-foundation-of-modern-ai)
@@ -339,3 +341,10 @@ As research advances, Transformers remain the backbone upon which increasingly i
 Images in this article are hosted for educational clarity and sourced from publicly available materials related to Transformer architectures. Exact original sources may not be individually identified. All images are used for non-commercial, educational purposes.
 
 ---
+
+Let's Connect
+If you found this helpful, feel free to reach out:
+
+💻 GitHub: https://github.com/Sahil0015
+🔗 LinkedIn: https://www.linkedin.com/in/sahil-codes
+📧 Email: sahilaggarwal1532003@gmail.com
