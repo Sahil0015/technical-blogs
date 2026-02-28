@@ -3,7 +3,7 @@
 ![Agent](1_UgLmT8IuF1rvELwJf7elTg.png)
 
 **TL;DR:** An “agent” is a system pattern built from a language model plus state, tools, and a control loop. The engineering work—safety, orchestration, observability—matters far more than prompt engineering alone.
-
+> **Published on Towards AI** — [Read on Medium](https://pub.towardsai.net/agents-arent-magic-the-real-architecture-behind-tool-calling-ai-systems-a21a91470c8b?source=friends_link&sk=e91c016fc43f280afaa63d340e034451)
 ## 1. Why Everyone Is Talking About Agents
 
 The move from chatbots to agents is a shift from passive text-generation to active, tool-enabled systems that can take actions: call APIs, query databases, run code, or orchestrate other services. People imagine autonomous systems that 'just do the job'—but real agents are systems engineering projects, not magic prompts.
