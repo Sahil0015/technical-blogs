@@ -51,7 +51,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
     - Prompt engineering
 - **Description**:  
   A technical deep dive into *why* LLMs hallucinate, how to measure them, and real engineering strategies for building more reliable AI systems.
-- **Medium Article**: [Read on Medium](https://pub.towardsai.net/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)
+- **Medium Article**: Published on Towards AI — [Read on Medium](https://pub.towardsai.net/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)
 
 ---
 
@@ -65,7 +65,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
   - Practical examples
 - **Description**:  
   A concise and intuitive introduction to probability and statistics designed for aspiring data scientists.
-- **Medium Article**: [Read on Medium](https://medium.com/data-and-beyond/probability-statistics-basic-idea-towards-learning-data-science-fd7a78ee5213)
+- **Medium Article**: Published on Data and Beyond — [Read on Medium](https://medium.com/data-and-beyond/probability-statistics-basic-idea-towards-learning-data-science-fd7a78ee5213)
 
 ---
 
@@ -81,11 +81,7 @@ Welcome to my collection of technical blogs! This repository serves as a hub for
   - Future directions in multimodal and agentic RAG
 - **Description**:  
   A practical engineering guide to building reliable AI systems using Retrieval-Augmented Generation — from core concepts to real-world deployment considerations.
-- **Medium Article**: [Read on Medium](https://pub.towardsai.net/rag-explained-teaching-llms-to-fact-check-themselves-308359f1ce6e)
-
----
-
-*(More blogs coming soon — including advanced LLM engineering topics and AI system design.)*
+- **Medium Article**: Published on Towards AI — [Read on Medium](https://pub.towardsai.net/rag-explained-teaching-llms-to-fact-check-themselves-308359f1ce6e)
 
 ---
 
