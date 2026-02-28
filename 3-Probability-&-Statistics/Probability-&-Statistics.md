@@ -1,7 +1,9 @@
-### Probability & Statistics
+# Probability & Statistics
 Random Variables, Distributions, Mean/Variance, Regression
 
-<img src="p&s.png" alt="Probability & Statistics" width="500" />
+![Probability & Statistics](p&s.png)
+
+> **Published on Data and Beyond** — [Read on Medium](https://medium.com/data-and-beyond/probability-statistics-basic-idea-towards-learning-data-science-fd7a78ee5213)
 
 ---
 
@@ -466,3 +468,18 @@ Why this matters in business:
 - **ML workflow**: use multiple features, split train/test, evaluate with metrics like MAE.
 
 Use **probability, statistics, and ML** to make smarter, data-driven decisions.
+
+---
+
+## Image Credits and Disclaimer
+
+Images in this article are hosted for educational clarity and sourced from publicly available materials. Exact original sources may not be individually identified. All images are used for non-commercial, educational purposes.
+
+---
+
+Let's Connect
+If you found this helpful, feel free to reach out:
+
+💻 GitHub: https://github.com/Sahil0015
+🔗 LinkedIn: https://www.linkedin.com/in/sahil-codes
+📧 Email: sahilaggarwal1532003@gmail.com
