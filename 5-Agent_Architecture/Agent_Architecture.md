@@ -156,7 +156,7 @@ If you’re building agents, treat them like distributed systems: define contrac
 
 ---
 
-# Image Credits and Disclaimer
+## Image Credits and Disclaimer
 
 Images in this article are hosted for educational clarity and sourced from publicly available materials. Exact original sources may not be individually identified. All images are used for non-commercial, educational purposes.
 
