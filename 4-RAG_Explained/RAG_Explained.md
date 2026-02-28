@@ -20,6 +20,8 @@ In this deep dive, we’ll break down how RAG works under the hood — from docu
 
 If hallucinations are the problem, RAG is the solution that helps LLMs pause, search, and fact-check.
 
+> **Published on Towards AI** — [Read on Medium](https://pub.towardsai.net/rag-explained-teaching-llms-to-fact-check-themselves-308359f1ce6e)
+
 ---
 
 ## 1. What is Retrieval-Augmented Generation?
@@ -472,3 +474,10 @@ If hallucinations were the problem, RAG is the grounded solution. You now have t
 Images in this article are hosted for educational clarity and sourced from publicly available materials. Exact original sources may not be individually identified. All images are used for educational purposes.
 
 ---
+
+Let's Connect
+If you found this helpful, feel free to reach out:
+
+💻 GitHub: https://github.com/Sahil0015
+🔗 LinkedIn: https://www.linkedin.com/in/sahil-codes
+📧 Email: sahilaggarwal1532003@gmail.com
