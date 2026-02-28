@@ -11,6 +11,8 @@ This write-up explores hallucinations through the lens of:
 - evaluation and detection
 - mitigation strategies in production systems
 
+> **Published on Towards AI** — [Read on Medium](https://pub.towardsai.net/hallucinations-in-llms-a-deep-technical-dive-into-causes-detection-and-mitigation-90229180543b)
+
 ---
 
 ## What is a Hallucination?
@@ -203,3 +205,10 @@ Real-world systems often follow this architecture:
 Images in this article are hosted for educational clarity and sourced from publicly available materials related to Transformer architectures. Exact original sources may not be individually identified. All images are used for non-commercial, educational purposes.
 
 ---
+
+Let's Connect
+If you found this helpful, feel free to reach out:
+
+💻 GitHub: https://github.com/Sahil0015
+🔗 LinkedIn: https://www.linkedin.com/in/sahil-codes
+📧 Email: sahilaggarwal1532003@gmail.com
